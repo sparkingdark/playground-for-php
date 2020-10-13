@@ -21,7 +21,7 @@ class Client
      *
      * @var bool
      */
-    protected $selfSigned = false;
+    protected $selfSigned = true;
 
     /**
      * Service host name
