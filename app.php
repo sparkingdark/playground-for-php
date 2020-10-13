@@ -233,3 +233,4 @@ try {
 }
 
 echo str_cli_color("successfully run playground","f_green,b_black");
+?>
